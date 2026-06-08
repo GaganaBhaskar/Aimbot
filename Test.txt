@@ -1,0 +1,6 @@
+laser turret aimbot
+
+turn to left
+2 seconds buffer
+turn to right
+buffer
